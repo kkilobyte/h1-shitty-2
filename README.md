@@ -19,6 +19,8 @@ H1 Shitty 2 is a play on the name from the universal unenrollment method created
 - it must not be locked
 - ability to count
 - timer
+### WARNING
+`dedede` Chromebooks have a non-zero chance to soft-brick when preforming H1 Shitty 2. The error might be "`TPM read error!`" or "`FWMP missing`". This is easily fixed by reinstalling ChromeOS using a recovery storage device.
 ##  How do I do it?
 1. Powerwash (press `ctrl + alt + shift + r` on the login screen)
 2. Proceed through setup as normal
