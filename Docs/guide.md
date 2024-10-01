@@ -5,4 +5,4 @@
 5. Leave it off for ***at least*** 15 hours
 6. When you turn it on, it should look like [this](https://github.com/kuromuiroha/CRSH2TTY/raw/main/Docs/Media/v128nissa.mp4) or something similar. You're unenrolled!\
 \
-Happy CRSH2TTING!
+Happy H1 SHITTING 2!!!

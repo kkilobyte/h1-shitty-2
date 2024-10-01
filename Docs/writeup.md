@@ -17,12 +17,12 @@ So is this truly universal?\
 It works on v31!!! (You can tell it's unenrolled because of the "browse as Guest" button)\
 So this is officially universal!\
 \
-But why name it CRSH2TTY?\
-Let's start with CRSH1TTY. CRSH1TTY itself was *not* a good exploit at all. It required a near infinite amount of time due how it works:\
+But why name it H1 Shitty 2?\
+Let's start with H1 Shitty 1. H1 Shitty 1 itself was *not* a good exploit at all. It required a near infinite amount of time due how it works:\
 3 codes get processed > Wait 10 secs > Roll code\
 This process repeats forever which means that since it's always rolling, there's a non-zero chance you can hit a past code multiple times. It's *very* slow.\
 \
-Because of this, CRSH2TTY is a funny name. I could talk about it publicly and no one would think it's real!\
+Because of this, H1 Shitty 2 is a funny name. I could talk about it publicly and no one would think it's real!\
 And I feel like the name just *works*, due to both of them taking time to unenroll you. 15 hours itself isn't *that* bad considering you can do it on a weekend, but even though it's nowhere near as fast as other exploits, it's still a universal USB-less exploit.\
 \
 But how does unenrollment occur? We don't know. There are a few theories:\
