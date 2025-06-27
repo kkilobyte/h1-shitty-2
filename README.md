@@ -30,9 +30,14 @@ H1 Shitty 2 is a play on the name from the universal unenrollment method created
 6. When you turn it on, it should look like [this](https://github.com/kuromuiroha/CRSH2TTY/raw/main/Docs/Media/v128nissa.mp4) or something similar. You're unenrolled!
 ## Why is it called H1 Shitty 2?
 It's a play on the original exploit name (that I won't say for reasons). H1 Shitty 1 required a non-zero amount of time to guess the password to the software on the H1 GSC on Chromebooks, where the code gets rolled every 3 attempts. H1 Shitty 2 doesn't do anything to the H1 or D2 software, but it still requires a 15 hour wait to get unenrolled.
+
+Update: It was called CRSH2TTY
 ## Is this patchable?
 Probably
 ## New exploit group?
-Yes!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! https://discord.gg/2aPZREdn4y
+Yes!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! https://discord.gg/2aPZREdn4y (The Discord server was deleted and the group disbanded, also I got kicked out anyways.)
 ## It doesn't work!!!!
+Method got patched. Since it was a server side exploit, you can't do it anymore. This repo exists only for archival purposes.
+
+### Original message
 Join our Discord server for support!!!!!! ^^^^^^^^^^^^^^^^^^^^^^^^^^
